@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2024-03-06",
+        "exercises": [
+            {
+                "duration": 45,
+                "distance": 2.34,
+                "name": "biking",
+                "type": "cardio"
+            },
+            {
+                "reps": 32,
+                "sets": 6,
+                "name": "crunches",
+                "type": "bodyWeight"
+            },
+            {
+                "duration": 90,
+                "intensity": "average",
+                "name": "soccer",
+                "type": "sport"
+            },
+            {
+                "reps": 8,
+                "sets": 6,
+                "name": "situps",
+                "type": "bodyWeight"
+            }
+        ],
+        "completed": "true"
+    },
+    {
+        "date": "2024-03-14",
+        "exercises": [
+            {
+                "reps": 6,
+                "sets": 4,
+                "name": "deadlift",
+                "type": "weightTraining"
+            },
+            {
+                "duration": 30,
+                "distance": 3.2,
+                "name": "Running",
+                "type": "cardio"
+            }
+        ],
+        "completed": "false"
+    }
+]
