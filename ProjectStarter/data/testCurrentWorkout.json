@@ -1,0 +1,17 @@
+{
+    "dateTimeCreated": "2024-07-24T14:00:00",
+    "exercises": [
+      {
+        "name": "Push-up",
+        "sets": 3,
+        "reps": 12,
+        "weight": 0
+      },
+      {
+        "name": "Squat",
+        "sets": 3,
+        "reps": 15,
+        "weight": 50
+      }
+    ]
+  }

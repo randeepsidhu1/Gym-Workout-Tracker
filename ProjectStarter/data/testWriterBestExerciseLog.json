@@ -1,0 +1,14 @@
+{"bestExerciseLog": [
+    {
+        "reps": 10,
+        "sets": 4,
+        "name": "Bench Press",
+        "weight": 100
+    },
+    {
+        "reps": 8,
+        "sets": 4,
+        "name": "Deadlift",
+        "weight": 150
+    }
+]}
